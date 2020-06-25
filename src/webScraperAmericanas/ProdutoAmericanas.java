@@ -19,10 +19,10 @@ public class ProdutoAmericanas {
 	/**
 	 * Construtor padrão.
 	 *
-	 * @param urlDasImagens - lista de urls das imagens do produto.
-	 * @param titulo        - título do produto.
-	 * @param preco         - preço do produto.
-	 * @param fichaTecnica  - dicionário com informações tecnicas do produto.
+	 * @param urlDasImagens lista de urls das imagens do produto.
+	 * @param titulo        título do produto.
+	 * @param preco         preço do produto.
+	 * @param fichaTecnica  dicionário com informações tecnicas do produto.
 	 */
 	public ProdutoAmericanas(List<String> urlDasImagens, String titulo, String preco,
 							 Map<String, String> fichaTecnica) {
